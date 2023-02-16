@@ -1,4 +1,10 @@
+[{
+    "version": "CM_v2022.9",
+    "path": "data/1_Carbon_Monitor/CM_v2022.9.csv",
+    "note": "updated"
+},
 {
-    "CM_v2022.9": "data/1_Carbon_Monitor/CM_v2022.9.csv",
-    "CM_v2022.8": "data/1_Carbon_Monitor/CM_v2022.8.csv"
-}
+    "version": "CM_v2022.8",
+    "path": "data/1_Carbon_Monitor/CM_v2022.8.csv",
+    "note": "updated"
+}]
