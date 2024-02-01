@@ -6,7 +6,7 @@
 # @File    : main.py
 # @Software: PyCharm
 
-import getAmapIndex
+from Amap import getAmapIndex
 import datetime
 
 
