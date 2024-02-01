@@ -4,11 +4,12 @@ on:
   push:
     branches:
       - master
+      
   # schedule:
   #   - cron: '0 0 * * *'
 
 jobs:
-  brazil-ons-bot:
+  amap-bot:
     runs-on: ubuntu-latest
     steps:
       - name: 'Checkout codes'
